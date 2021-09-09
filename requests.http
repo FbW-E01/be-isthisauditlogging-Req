@@ -1,0 +1,13 @@
+GET http://localhost:8000/foo
+
+###
+
+GET http://localhost:8000/bar
+
+###
+
+POST http://localhost:8000/foo
+
+###
+
+POST http://localhost:8000/bar
